@@ -1,0 +1,48 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="muse.com" resolutions="1x" timestamp="1474149196172">
+  <folder name="css">
+    <file name="site_global.css" crc="3991407399"/>
+    <file name="master_a-master.css" crc="76284791" ref="index:sub-2:sub-1"/>
+    <file name="index.css" crc="3796319898" ref="index"/>
+    <file name="sub-2.css" crc="310381305" ref="sub-2"/>
+    <file name="sub-1.css" crc="3898163283" ref="sub-1"/>
+  </folder>
+  <folder name="assets">
+    <file name="5_video.mp4" crc="118258203" seo="true" mt="1474128310000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:sub-2:sub-1"/>
+    <file name="museutils.js" crc="3851988764" ref="index:sub-2:sub-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sub-2:sub-1"/>
+    <file name="museconfig.js" crc="169177150" ref="index:sub-2:sub-1"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:sub-2:sub-1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:sub-2:sub-1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sub-2:sub-1"/>
+    <file name="require.js" crc="4108833657" ref="index:sub-2:sub-1"/>
+    <file name="webpro.js" crc="4067903014" ref="sub-1"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="sub-1"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="sub-1"/>
+    <file name="touchswipe.js" crc="474750357" ref="sub-1"/>
+  </folder>
+  <folder name="images">
+    <file name="photo 1-1.jpg" crc="4027198340" ref="index"/>
+    <file name="photo 3-1.jpg" crc="3885126478" seo="true" ref="index"/>
+    <file name="photo 5-1.jpg" crc="4216705650" seo="true" ref="index"/>
+    <file name="photo 8-1.jpg" crc="120272930" seo="true" ref="index"/>
+    <file name="web-draft-1.jpg" crc="4113698242" seo="true" ref="sub-1"/>
+    <file name="blank.gif" crc="4208392903" ref="sub-1"/>
+    <file name="web-draft-2.jpg" crc="196117110" seo="true" ref="sub-1"/>
+    <file name="web-draft-3.jpg" crc="4157700786" seo="true" ref="sub-1"/>
+    <file name="web-draft-4.jpg" crc="4072461683" seo="true" ref="sub-1"/>
+    <file name="web-draft-5.jpg" crc="267605798" seo="true" ref="sub-1"/>
+    <file name="web-draft-6.jpg" crc="9375203" seo="true" ref="sub-1"/>
+    <file name="web-draft-7.jpg" crc="369684340" seo="true" ref="sub-1"/>
+    <file name="web-draft-8.jpg" crc="4077839044" seo="true" ref="sub-1"/>
+    <file name="web-draft-9.jpg" crc="458511603" seo="true" ref="sub-1"/>
+    <file name="web-draft-10.jpg" crc="165318728" seo="true" ref="sub-1"/>
+    <file name="loading.gif" crc="3815509949" ref="sub-1"/>
+  </folder>
+  <file name="index.html" crc="3823893441" seo="true" mt="1474148721798" redirect="true"/>
+  <file name="sub-2.html" crc="3966413424" seo="true" mt="1474148347619" redirect="true"/>
+  <file name="sub-1.html" crc="193158215" seo="true" mt="1474148682050" redirect="true"/>
+</manifest>
